@@ -37,7 +37,7 @@ const About = () => {
               className='w-full md:w-2/2 mt-8 md:mt-0' >
 
                 <div className='rounded-2xl p-8'>
-                  <h3 className='text-2xl font-semibold mb-6'>My Journey..</h3>
+                  <h3 className='text-2xl font-semibold mb-6'>My Journey</h3>
                   <p className='text-gray-400 mb-6'> I'm a passionate fuller with over five years or an experience creating digital solutions for business around the world my journey started with basic estimates such as websites and immediately complex web applications with modern frameworks </p>
                   <p className='text-gray-400 mb-12'> when I'm not coding you can find me exploring new technologies contributing to open source projects or sharing my knowledge throughout teach blogs and tutorials I believe in continuous learning and pushing the boundaries of what's possible on the web </p>
                {/* cards */}
