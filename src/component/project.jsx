@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { FaArrowRight } from "react-icons/fa";
 import { projects } from "../assets/assets";
-import ProjectCard from "./ProjectCard";
+import ProjectCard from "./projectCard";
 
 const Project = () => {
   console.log(projects);
