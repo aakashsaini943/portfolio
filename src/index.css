@@ -26,7 +26,7 @@
 
 @keyframes typing {
   from {width: 0;}
-  to {width: 18ch;} /* match the no of characters you want to print*/
+  to {width: 21ch;} /* match the no of characters you want to print*/
 }
 
 @keyframes blink-caret {
