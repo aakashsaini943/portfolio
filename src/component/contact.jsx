@@ -83,7 +83,7 @@ const Contact = () => {
                 <FaMapMarkerAlt />
               </div>
               <div>
-                <h3 className="text-lg font-semibold">Location</h3>
+                <h3 className="text-lg font-semibold">Noida sector-62 electronic city metro station </h3>
                 <p className="text-gray-400">New Delhi, Ashok Nagar</p>
               </div>
             </div>
@@ -94,7 +94,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold">Email</h3>
-                <p className="text-gray-400">aakash@example.com</p>
+                <p className="text-gray-400">aakashsaini943@gmail.com</p>
               </div>
             </div>
 
@@ -104,7 +104,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold">Phone</h3>
-                <p className="text-gray-400">+91 0000000000</p>
+                <p className="text-gray-400">+91 8171664871</p>
               </div>
             </div>
 
