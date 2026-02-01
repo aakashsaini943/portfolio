@@ -116,9 +116,9 @@ export const projects = [
     title: "Portfolio Website",
     description: "A personal portfolio to showcase projects, skills, and blogs with dark/light mode support.",
     image: projectImg4,
-    tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
+    tech: ["React.js", "Tailwind CSS", "Framer Motion", "Css3"],
     icons: [FaReact, FaCloud],
-    demo: "#",
+    demo: "https://azure-escape-syor.vercel.app/",
     code: "#",
   },
   {
@@ -145,23 +145,10 @@ export const projects = [
 export const workData = [
   {
     role: "Frontend Developer",
-    company: " Freelancer.",
+    company: " Globus Info Services ",
     duration: "2024 - Present",
     description: "Leading frontend development and building scalable UI components.",
     color: "purple"
   },
-  {
-    role: "Web Developer",
-    company: "Digital Solutions LLC",
-    duration: "2018 - 2020",
-    description: "Built and maintained multiple client-facing web applications.",
-    color: "pink"
-  },
-  {
-    role: "Junior Developer",
-    company: "StartUp Ventures",
-    duration: "2016 - 2018",
-    description: "Worked on small projects and gained full-stack fundamentals.",
-    color: "blue"
-  }
+  
 ];
