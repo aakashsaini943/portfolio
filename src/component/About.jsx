@@ -57,7 +57,7 @@ const About = () => {
                 I'm a passionate full-stack developer with over five years of
                 experience creating digital solutions for businesses around the
                 world. My journey started with simple websites and gradually
-                evolved into building complex web applications using modern
+                evolved into building complex web applications and cloud solution using modern tech &
                 frameworks.
               </p>
 
